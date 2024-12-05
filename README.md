@@ -1,4 +1,4 @@
-👋 Hi, I’m @mchowdhury19
+👋 Hi, I’m Mahjabin!
 I’m a passionate Electrical Engineering major at San Jose State University, with a strong love for coding, problem-solving, and creating innovative tools. I also enjoy drawing and painting in all mediums, and 
 I bond with people over food from different cuisines! 🍳🎨
 
