@@ -1,27 +1,31 @@
 👋 Hi, I’m Mahjabin!
-I’m a passionate Electrical Engineering major at San Jose State University, with a strong love for coding, problem-solving, and creating innovative tools. I also enjoy drawing and painting in all mediums, and 
-I bond with people over food from different cuisines! 🍳🎨
+I’m a new grad and Functional Electrical Engineer with a deep love for coding, problem‐solving, and crafting innovative tools. I enjoy drawing and painting in all mediums, and I connect with people over different cuisines 🍳🎨
 
 👀 I’m interested in:
-Software development: Particularly using Python and PyQt5 to build functional and user-friendly applications.
-Making games: I love creating games in Python and using Pygame to bring fun ideas to life.
-Electrical Engineering: Working on projects that bridge the gap between hardware and software.
-Creative coding: Exploring how I can apply art and design principles to coding projects.
+Software development: Building functional and user‐friendly apps, especially with Python and PyQt5
+Game creation: Bringing fun ideas to life with Python and Pygame
+Electrical Engineering: Projects that bridge hardware and software
+AI/ML research: Specifically applying artificial intelligence to embedded systems 🤖🧠
+Creative coding: Combining art, design, and technology
 
 🌱 I’m currently learning:
-Advanced Python techniques, particularly in GUI development with PyQt5.
-More about embedded systems and FPGA programming.
-New cooking techniques and exploring global cuisines! 🍝🍣
+I’m exploring Field Application Engineering 🤝, semiconductors 🔬, and embedded systems 🤖—especially AI in embedded hardware 🧠. When I’m not diving into circuits or code, I’m cooking new recipes 🍳 and discovering global cuisines 🌏!
 
 💞️ I’m looking to collaborate on:
-Projects related to Python, GUI design, or engineering tools.
-Open-source projects that involve hardware/software integration.
-Game development projects or collaborations in Pygame.
-Cooking and food-related creative projects (seriously, who doesn’t love food?!).
+Python or GUI design projects
+Open‐source engineering tools (hardware/software integration)
+Game development projects (Pygame, etc.)
+Creative food‐related collaborations (who doesn’t love good food?!)
+✍️ My Blog
+I try to write weekly on my blog at
+https://isthisrealliterature.wordpress.com/
+Check it out if you’re into musings on life, literature, and everything in between!
 
-📫 How to reach me: chow.marzia@gmail.com
-LinkedIn: www.linkedin.com/in/chowdhurymahjabin
+📫 How to reach me:
+Email: chow.marzia@gmail.com
+LinkedIn: linkedin.com/in/chowdhurymahjabin
+😄 Pronouns
+She/Her
 
-😄 Pronouns: She/Her
-
-⚡ Fun fact: I’m not good at baking, but it will never stop me from trying to participate in TLC’s Ultimate Cake Off! 🎂✨
+⚡ Fun fact
+I’m not great at baking, but I’d still audition for TLC’s Ultimate Cake Off in a heartbeat! 🎂✨
